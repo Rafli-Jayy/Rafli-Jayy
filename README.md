@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Halo, Saya [Nama Anda]!
 
-<!--
-**Rafli-Jayy/Rafli-Jayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang penjelajah dunia frontend yang sedang fokus mendalami **React JS** dan membangun sistem otomatisasi koding yang praktis.
 
-Here are some ideas to get you started:
+### 🛠️ Apa yang Sedang Saya Kerjakan?
+*   🤖 Membangun **React Learning Automation Kit** (Starter kit dengan fitur CLI `npm run make-page`).
+*   🎨 Meracik komponen UI modern berbasis **Tailwind CSS v4** dan **Framer Motion**.
+*   ⚡ Meng-online-kan eksperimen seru langsung ke **Vercel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Teknologi & Alat Tempur
+`React.js` `JavaScript` `Tailwind CSS` `Framer Motion` `Vite` `Git` `VS Code`
+
+---
+*“Bukan cuma asal kodenya jalan, tapi tampilannya juga harus memanjakan mata.”* 🔋
+
