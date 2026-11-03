@@ -89,13 +89,19 @@ Software Engineering
 ---
 
 
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/Rafli-Jayy/Rafli-Jayy/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafli-Jayy/Rafli-Jayy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafli-Jayy/Rafli-Jayy/output/github-contribution-grid-snake.svg">
+  <img alt="Jaya's GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rafli-Jayy/Rafli-Jayy/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
+
 
 
 ---
