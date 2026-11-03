@@ -4,50 +4,64 @@
 
 I'm an Information Technology undergraduate student at **Universitas Jember (UNEJ)**, Indonesia.
 
-I'm passionate about software development, exploring new technologies, and building innovative digital solutions. My interests include **Web Development, Mobile Development, Backend Engineering, and Artificial Intelligence Integration** in software applications.
+I'm passionate about **Software Engineering**, exploring modern technologies, and understanding how software systems are designed and developed.
 
-I enjoy understanding how software systems work, solving problems through programming, and continuously expanding my technical knowledge.
+My interests span **Web Development, Backend Engineering, Mobile Development, and Artificial Intelligence Integration**. I'm continuously building my programming foundation, expanding my technical knowledge, and learning how to create practical, reliable software solutions.
 
-### 🚀 About Me
+---
 
-- 🎓 Information Technology student at Universitas Jember
-- 🌱 Currently learning Software Engineering and Web Development
-- 📱 Interested in Web and Mobile Application Development
-- 🤖 Exploring Artificial Intelligence and its integration into software applications
-- ⚙️ Interested in Backend Development and Database Systems
-- 🎯 Aspiring to become a professional Software Engineer
-- 🤝 Open to collaboration and new learning experiences
+### 👨‍💻 About Me
+
+- 🎓 Studying Information Technology at **Universitas Jember**
+- 💻 Building my foundation in **JavaScript, React.js, and Python**
+- 🗄️ Currently learning **PostgreSQL** and database management
+- 🤖 Exploring **AI Integration** in software applications
+- 📱 Interested in exploring **Mobile Application Development**
+- 🧠 Interested in software architecture, problem-solving, and system design
+- 🎯 Working toward becoming a skilled **Software Engineer**
+- 🤝 Open to collaboration, knowledge sharing, and learning opportunities
 
 ### 🛠️ Tech Stack
 
-**Languages & Database**
+**Programming Languages**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Database — Currently Learning**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
-**Tools & Development**
+### 📚 Areas of Interest
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 🌐 **Web Development** — Exploring modern web technologies and application development
+- ⚙️ **Backend Engineering** — Understanding server-side logic, databases, and application architecture
+- 📱 **Mobile Development** — Interested in learning how to build mobile applications
+- 🤖 **AI Integration** — Learning how to integrate Artificial Intelligence into software applications
+- 🗄️ **Database Systems** — Developing knowledge of relational databases and data management
+- 🧩 **Software Engineering** — Exploring software design, development practices, and problem-solving
 
-### 📚 Currently Exploring
+### 🌱 Currently Learning & Improving
 
-- 🌐 Web Development
-- 📱 Mobile Application Development
-- ⚙️ Backend Development
-- 🤖 AI Integration & AI-Powered Applications
-- 🗄️ Database Management
-- 🧩 Software Architecture & Engineering
+- Strengthening JavaScript, React.js, and Python fundamentals
+- Learning PostgreSQL and relational database concepts
+- Exploring AI APIs and their integration into applications
+- Understanding software architecture and development workflows
+- Improving analytical thinking and problem-solving skills
 
-### 🌱 My Goals
+### 🎯 My Goals
 
-To become a skilled Software Engineer capable of developing scalable web and mobile applications, integrating Artificial Intelligence into practical software solutions, and creating technology that delivers real-world value.
+My goal is to grow into a skilled and adaptable **Software Engineer** with a strong foundation in software development.
 
-### 🤝 Let's Connect!
+I aim to expand my knowledge across web and mobile technologies, explore practical AI integration, and continuously improve my ability to design and develop meaningful software solutions.
 
-I'm always open to learning opportunities, sharing knowledge, and collaborating with fellow developers.
+### 🤝 Let's Connect
+
+I'm always interested in learning from other developers, exchanging ideas, and exploring opportunities to collaborate.
 
 ---
 
