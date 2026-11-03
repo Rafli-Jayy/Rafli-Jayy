@@ -1,4 +1,4 @@
-# Hi there! I'm Rafli 👋
+# Hi there! I'm Jaya 👋
 
 ### 🎓 Information Technology Student | 💻 Aspiring Software Engineer
 
