@@ -1,89 +1,50 @@
-## <div align="center">Seorang yang sedang belajar dunia Programming 🚀</div>  
-  
+# Hi there! I'm Rafli 👋
 
-- ⚙️ Sedang Mengerjakan: Proyek React Dynamic PlayGround & Learning Automation Kit (Sistem instan `npm run make-page`).  
-  
+### 🎓 Information Technology Student | 💻 Aspiring Software Engineer
 
-- ⚛️ Sedang mendalami framework ReactJS dan Tailwind  
-  
+I'm an Information Technology undergraduate student at **Universitas Jember (UNEJ)**, Indonesia.
 
-- *⚡ Fun fact: Niat belajar sejak lolos SNBP cihuyy (Selasa, 31 Maret 2026 pukul 15.00 WIB)*  
-  
+I'm passionate about technology, programming, and software development. I enjoy exploring new technologies, learning how systems work, and continuously improving my technical and problem-solving skills.
 
-<br/>  
+### 🚀 About Me
 
+- 🎓 Information Technology student at Universitas Jember
+- 🌱 Currently learning Software Engineering and Web Development
+- 💻 Interested in Backend and Full-Stack Development
+- 🧠 Passionate about problem-solving and continuous learning
+- 🎯 Aspiring to become a professional Software Engineer
+- 🤝 Open to collaboration and new learning experiences
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### 🛠️ Tech Stack
 
+**Languages & Database**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-</div>
+**Tools & Development**
 
-</td><td valign="top" width="33%">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### 📚 Currently Exploring
 
+- Software Engineering
+- Web Development
+- Database Management
+- Backend Development
+- Data Structures & Algorithms
 
-</td><td valign="top" width="33%">
+### 🌱 My Goals
 
+To continuously improve as a developer, gain practical experience, contribute to meaningful software development, and build a career in Software Engineering.
 
+### 🤝 Let's Connect!
 
-</td></tr></table>  
+I'm always open to learning, sharing knowledge, and collaborating with fellow developers.
 
-<br/>  
+---
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Rafli-jayy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/raply.tm" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@Raflie" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rafli-Jayy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Rafli-Jayy&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+*“Keep learning, keep building, and keep improving.”*
