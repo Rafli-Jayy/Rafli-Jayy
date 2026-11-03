@@ -93,7 +93,7 @@ Software Engineering
 
 <div align="center">
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Rafli-Jayy/Rafli-Jayy/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
