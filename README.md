@@ -4,14 +4,17 @@
 
 I'm an Information Technology undergraduate student at **Universitas Jember (UNEJ)**, Indonesia.
 
-I'm passionate about technology, programming, and software development. I enjoy exploring new technologies, learning how systems work, and continuously improving my technical and problem-solving skills.
+I'm passionate about software development, exploring new technologies, and building innovative digital solutions. My interests include **Web Development, Mobile Development, Backend Engineering, and Artificial Intelligence Integration** in software applications.
+
+I enjoy understanding how software systems work, solving problems through programming, and continuously expanding my technical knowledge.
 
 ### 🚀 About Me
 
 - 🎓 Information Technology student at Universitas Jember
 - 🌱 Currently learning Software Engineering and Web Development
-- 💻 Interested in Backend and Full-Stack Development
-- 🧠 Passionate about problem-solving and continuous learning
+- 📱 Interested in Web and Mobile Application Development
+- 🤖 Exploring Artificial Intelligence and its integration into software applications
+- ⚙️ Interested in Backend Development and Database Systems
 - 🎯 Aspiring to become a professional Software Engineer
 - 🤝 Open to collaboration and new learning experiences
 
@@ -31,19 +34,20 @@ I'm passionate about technology, programming, and software development. I enjoy 
 
 ### 📚 Currently Exploring
 
-- Software Engineering
-- Web Development
-- Database Management
-- Backend Development
-- Data Structures & Algorithms
+- 🌐 Web Development
+- 📱 Mobile Application Development
+- ⚙️ Backend Development
+- 🤖 AI Integration & AI-Powered Applications
+- 🗄️ Database Management
+- 🧩 Software Architecture & Engineering
 
 ### 🌱 My Goals
 
-To continuously improve as a developer, gain practical experience, contribute to meaningful software development, and build a career in Software Engineering.
+To become a skilled Software Engineer capable of developing scalable web and mobile applications, integrating Artificial Intelligence into practical software solutions, and creating technology that delivers real-world value.
 
 ### 🤝 Let's Connect!
 
-I'm always open to learning, sharing knowledge, and collaborating with fellow developers.
+I'm always open to learning opportunities, sharing knowledge, and collaborating with fellow developers.
 
 ---
 
