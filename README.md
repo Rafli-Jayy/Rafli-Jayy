@@ -1,68 +1,126 @@
-# Hi there! I'm Jaya 👋
+ <div align="center">
+
+# Hi there, I'm Jaya! 👋
 
 ### 🎓 Information Technology Student | 💻 Aspiring Software Engineer
 
-I'm an Information Technology undergraduate student at **Universitas Jember (UNEJ)**, Indonesia.
+**Exploring Technology • Building Skills • Growing Every Day**
 
-I'm passionate about **Software Engineering**, exploring modern technologies, and understanding how software systems are designed and developed.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Aspiring+Software+Engineer;Web+%26+Backend+Development;Exploring+AI+Integration;Interested+in+Mobile+Development;Always+Learning+New+Things" alt="Typing SVG" />
 
-My interests span **Web Development, Backend Engineering, Mobile Development, and Artificial Intelligence Integration**. I'm continuously building my programming foundation, expanding my technical knowledge, and learning how to create practical, reliable software solutions.
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Studying Information Technology at **Universitas Jember**
+I'm **Jaya**, an Information Technology undergraduate student at **Universitas Jember (UNEJ)**, Indonesia.
+
+I'm passionate about **Software Engineering**, programming, and exploring how technology can be used to develop practical and innovative solutions.
+
+My interests include **Web Development, Backend Engineering, Mobile Development, and AI Integration**. I'm currently strengthening my programming fundamentals while exploring modern software technologies.
+
+- 🎓 Studying **Information Technology** at Universitas Jember
 - 💻 Building my foundation in **JavaScript, React.js, and Python**
 - 🗄️ Currently learning **PostgreSQL** and database management
 - 🤖 Exploring **AI Integration** in software applications
-- 📱 Interested in exploring **Mobile Application Development**
-- 🧠 Interested in software architecture, problem-solving, and system design
-- 🎯 Working toward becoming a skilled **Software Engineer**
-- 🤝 Open to collaboration, knowledge sharing, and learning opportunities
+- 📱 Interested in **Mobile Application Development**
+- 🧠 Enjoy learning about software architecture and problem-solving
+- 🎯 Aspiring to become a professional **Software Engineer**
 
-### 🛠️ Tech Stack
+---
 
-**Programming Languages**
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend Development**
+### 🌐 Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Database — Currently Learning**
+### 🗄️ Database (Currently Learning)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📚 Areas of Interest
+---
 
-- 🌐 **Web Development** — Exploring modern web technologies and application development
-- ⚙️ **Backend Engineering** — Understanding server-side logic, databases, and application architecture
-- 📱 **Mobile Development** — Interested in learning how to build mobile applications
-- 🤖 **AI Integration** — Learning how to integrate Artificial Intelligence into software applications
-- 🗄️ **Database Systems** — Developing knowledge of relational databases and data management
-- 🧩 **Software Engineering** — Exploring software design, development practices, and problem-solving
+## 🚀 Areas of Interest
 
-### 🌱 Currently Learning & Improving
+<div align="center">
 
-- Strengthening JavaScript, React.js, and Python fundamentals
-- Learning PostgreSQL and relational database concepts
-- Exploring AI APIs and their integration into applications
-- Understanding software architecture and development workflows
-- Improving analytical thinking and problem-solving skills
+| 🌐 Web Development | 📱 Mobile Development |
+|:---:|:---:|
+| Building modern web applications | Exploring mobile app development |
 
-### 🎯 My Goals
+| ⚙️ Backend Engineering | 🤖 AI Integration |
+|:---:|:---:|
+| Server-side systems and databases | Integrating AI into software |
 
-My goal is to grow into a skilled and adaptable **Software Engineer** with a strong foundation in software development.
-
-I aim to expand my knowledge across web and mobile technologies, explore practical AI integration, and continuously improve my ability to design and develop meaningful software solutions.
-
-### 🤝 Let's Connect
-
-I'm always interested in learning from other developers, exchanging ideas, and exploring opportunities to collaborate.
+</div>
 
 ---
 
-*“Keep learning, keep building, and keep improving.”*
+## 📚 Currently Learning
+
+```text
+Software Engineering
+│
+├── 💻 Programming
+│   ├── JavaScript Fundamentals
+│   ├── Python Fundamentals
+│   └── React.js Fundamentals
+│
+├── 🗄️ Database
+│   └── PostgreSQL
+│
+├── 🤖 Artificial Intelligence
+│   └── AI Integration & APIs
+│
+└── 🚀 Exploring
+    ├── Web Development
+    ├── Backend Engineering
+    ├── Mobile Development
+    └── Software Architecture
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- 🚀 Strengthen my foundation in Software Engineering
+- 🌐 Develop skills in modern web technologies
+- 📱 Explore Mobile Application Development
+- 🤖 Learn to integrate AI into real-world software
+- 🧠 Improve problem-solving and software design skills
+- 🤝 Grow through collaboration and continuous learning
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to learning opportunities, exchanging ideas, and connecting with fellow developers.
+
+**Let's learn, build, and grow together!**
+
+---
+
+### ✨ Keep Learning. Keep Building. Keep Improving.
+
+</div> 
